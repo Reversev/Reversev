@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)]([https://github.com/Reversev](https://github.com/Reversev))
+[![GitHub Thaiane](https://img.shields.io/github/followers/Reversev?label=follow&style=social)]([https://github.com/Reversev](https://github.com/Reversev))
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
